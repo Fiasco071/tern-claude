@@ -1,0 +1,7 @@
+schema = 1
+id = "claude"
+name = "Claude Sessions"
+version = "0.1.0"
+description = "Claude Code sessions as native Tern cards: continue, fork, hide, and keep tabs on the running ones."
+icon = "sparkle"
+window = "window.luau"
